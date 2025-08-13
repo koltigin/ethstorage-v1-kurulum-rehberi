@@ -16,7 +16,11 @@ Bu script, EthStorage v1 Trusted Setup Ceremony'e katılmak için gereken tüm k
 ### 1- Script'i çalıştır
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/UfukNode/ethstorage-v1-kurulum-rehberi/main/script.sh | bash
+wget https://raw.githubusercontent.com/UfukNode/ethstorage-v1-kurulum-rehberi/main/script.sh
+```
+```bash
+chmod +x script.sh
+sudo ./script.sh
 ```
 
 ---

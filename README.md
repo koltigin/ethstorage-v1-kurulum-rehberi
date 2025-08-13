@@ -1,5 +1,3 @@
-![GyNCpDVb0AEWmuB](https://github.com/user-attachments/assets/370f25d7-5c1f-447e-8c77-eb02f64c4953)
-
 # EthStorage Trusted Setup Ceremony - Otomatik Kurulum
 
 Bu script, EthStorage v1 Trusted Setup Ceremony'e katılmak için gereken tüm kurulumları otomatik olarak yapar. Manuel kurulum derdi yok, birkaç komutla çalıştırabilirsiniz.

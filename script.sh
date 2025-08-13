@@ -4,7 +4,7 @@
 # Kullanım: bash ethstorage_ceremony.sh
 
 # Scriptin NVM ve NodeJs ile ilgili uyarılarda durmasını önlemek için set -e yerine hata kontrolünü kendimiz yapabiliriz.
-#set -e
+#set -e 
 
 # Renkli çıktılar için
 RED='\033[0;31m'

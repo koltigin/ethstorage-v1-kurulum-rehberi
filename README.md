@@ -151,3 +151,17 @@ Ceremony tamamlandığında sosyal medyada paylaşın.
 - Ekran görüntüsü al.
 - İngilizce bir gönderi hazırla.
 - Paylaşımını X'te Ethstorage'ı etikeleyerek paylaş
+
+
+## İzinleri Kaldırma ve Silme
+```bash
+cd ~/trusted-setup-tmp
+phase2cli clean
+phase2cli logout
+```
+
+```bash
+cd $HOME
+rm -rf ~/trusted-setup-tmp
+```
+
